@@ -13,6 +13,7 @@
 ,dunst,"is a suckless notification system."
 ,exfat-utils,"allows management of FAT drives."
 ,feh,"is an image viewer."
+,sxiv,"is another image viewer."
 ,ffmpeg,"can record and splice video and audio on the command line."
 ,gnome-keyring,"serves as the system keyring."
 ,vim,"vim"
